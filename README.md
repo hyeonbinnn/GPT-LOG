@@ -19,7 +19,7 @@
 <br>
 <br>
 
-## 🔍 프로젝트-정보
+## 프로젝트-정보
 
 GPT-LOG는 GPT OPEN API를 이용해서 나도 간단한 일기장 같은 걸 만들어 보고 싶어서 시작했다.
 
@@ -50,7 +50,7 @@ GPT-LOG는 GPT OPEN API를 이용해서 나도 간단한 일기장 같은 걸 �
 <br>
 <br>
 
-## 🔍 사용 기술
+## 사용 기술
 
 #### [ FrontEnd ]
 
@@ -88,8 +88,7 @@ GPT-LOG는 GPT OPEN API를 이용해서 나도 간단한 일기장 같은 걸 �
 <br>
 <br>
 
-## 🔍 폴더 구조
-
+## 폴더 구조
 ```
 🤖 GPT-LOG
 ├─ 📦 public
@@ -126,7 +125,7 @@ GPT-LOG는 GPT OPEN API를 이용해서 나도 간단한 일기장 같은 걸 �
 <br>
 <br>
 
-## 🔍 기획
+## 기획
 
 **✔️ 문제**
 
@@ -154,7 +153,7 @@ GPT-LOG는 GPT OPEN API를 이용해서 나도 간단한 일기장 같은 걸 �
 <br>
 <br>
 
-## 🔍 Chat GPT API 및 개발 과정
+## Chat GPT API 및 개발 과정
 
 ** ✔️ GPT 잘 다루기 위해 프롬프트 짜는 법**
 
@@ -374,7 +373,7 @@ export const useGetThumbnail = async (query) => {
 <br>
 <br>
 
-## 🔍 CRA vs Vite
+## CRA vs Vite
 
 항상 **CRA (Create-React-App)**으로 리액트 프로젝트를 해왔어서 이번에 **Vite**로 만들어 보니, 확실히 차이점을 알았다.
 

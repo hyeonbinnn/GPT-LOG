@@ -269,7 +269,7 @@ API 호출할 때 3개의 `role`로 구분해서 보내기 (System, User, Assist
 6. [https://api.unsplash.com](https://api.unsplash.com)<br>
    Unsplash API 공식 페이지에서 OPEN API 키 발급 (.env 설정)
 
-7. Chat GPT API 호출 로직에 Unsplash API 호출 <br><br>
+7. Chat GPT API 호출 로직에 Unsplash API 호출 <br>
     ```js
     import { useState } from 'react';
     import { message } from 'antd';

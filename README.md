@@ -35,8 +35,7 @@ GPT-LOG는 GPT OPEN API를 이용해서 자동 생성 일기장 같은 걸 만�
 
 늘 그렇듯 영상이 올라온 지 시간이 꽤 지나서 현시점과는 일치하지 않는 부분이 있다는 걸 알고 있어야 한다.
 
-예를 들어, Unsplash 무료 이미지 제공 방식이 [https://source.unsplash.com/1600x900/?<키워드>](https://source.unsplash.com/1600x900/?<키워드>) 이런 식으로 쉽게 가져올 수 있었는데, <br>
-더 이상 지원되지 않고 OPEN API로 전환되었기에 썸네일을 가져오는 부분은 강의와 다르다.
+예를 들어, Unsplash 무료 이미지 제공 방식이 [https://source.unsplash.com/1600x900/?<키워드>](https://source.unsplash.com/1600x900/?<키워드>) 이런 식으로 쉽게 가져올 수 있었는데, 더 이상 지원되지 않고 OPEN API로 전환되었기에 썸네일을 가져오는 부분은 강의와 다르다.
 
 또한, 데이터를 요청할 때 Fetch 대신 Axios 라이브러리를 사용해 조금 더 간편하고 직관적이게 처리했다.
 
